@@ -1,0 +1,14 @@
+Q11.
+Select * From Customers
+Inner Join  Orders on
+Customers.id = Orders.id
+
+
+Q12.
+
+
+Q13.
+
+
+Q14.
+Delete from Logs

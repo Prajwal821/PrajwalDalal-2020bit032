@@ -1,0 +1,5 @@
+Name: Prajwal Chandrakant Dalal
+Name of the project: Music Genre Recognition
+Theme of the Project & Objective: Webapp that recognize the genre of any wav file. Our main objective is the implement how the apps like spotify guess the genres of the songs liked by users and recommend more such songs to them.
+Career aspirations and goals: To be best in the field of Software Development and take lead roles.
+Subject of Interest : Software Development, AI&ML, Android Development.

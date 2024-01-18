@@ -1,0 +1,5 @@
+Select ID, Full_Name, Salary 
+from Employees where {
+	Select ID, Full_Name, Salary
+	from Employees OrderBy (Salary)
+} 
